@@ -4,3 +4,5 @@ print(1)
 
 print('hollow')
 
+print()
+
