@@ -13,5 +13,5 @@ def bubble_sort(number):
 nums = [random.randint(0, 100) for _ in range(11)]
 print(bubble_sort(nums))
 
-a = 1
+a = 10
 b = 2
