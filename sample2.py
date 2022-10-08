@@ -8,5 +8,5 @@ def prime_numbers_v1(numbers):
             prime.append(x)
     return prime
 
-print(prime_numbers_v1(100))
+print(prime_numbers_v1(1000))
 
